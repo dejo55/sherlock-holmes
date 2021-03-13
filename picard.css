@@ -2,3 +2,23 @@ h1{
     background-color:gray; color: rgb(201, 201, 71);font-style:italic;
     font-size:15px;
 }
+.top-container{
+    background-color: red; width: 100px;height: 100px;border: solid 10px; margin-inline-start:120px;
+}
+    
+}
+h2{ background-color: red; margin: 0; }
+body{background-color: aquamarine;
+    margin: 0;
+}
+.middle-container{
+    background-color:brown; width: 100px;height: 100px; border: solid  10px;
+}
+.bottom-container{
+    background-color:yellow; width: 100px;height: 100px; margin-left: 120px;
+    border: solid  10px;
+}
+.last-container{
+    background-color:green; width: 100px;height: 100px; margin-left: 240px;
+    border: solid  10px;
+}
